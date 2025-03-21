@@ -23,7 +23,12 @@ O aplicativo foi desenvolvido utilizando as seguintes tecnologias e componentes:
 
 📸 Capturas de Tela
 
-(Adicione imagens do aplicativo aqui para demonstrar a interface)
+<img src="https://github.com/user-attachments/assets/264c64cb-8267-483d-9a88-10058ed2aa03" width=200/>
+
+<img src="https://github.com/user-attachments/assets/0a25fabe-2187-4989-b2d4-5b8e5c056e9f" width=200/>
+
+<img src="https://github.com/user-attachments/assets/9f96fca8-89cd-4b20-8a17-40978d3f7fb2" width=200/>
+
 
 📌 Funcionalidades
 
