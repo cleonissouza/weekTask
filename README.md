@@ -34,7 +34,6 @@ O aplicativo foi desenvolvido utilizando as seguintes tecnologias e componentes:
 
 ✅ Seleção de dias da semana via Spinner  
 ✅ Exibição de tarefas do dia escolhido  
-✅ Layout otimizado para diferentes tamanhos de tela  
 ✅ Experiência fluida e moderna com Material Design  
 
 🤝 Contribuição
