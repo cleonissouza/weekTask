@@ -31,8 +31,12 @@ The application was developed using the following technologies and components:
 
 📌 Features
 
-✅ Selection of weekdays via Spinner  
-✅ Display of tasks for the selected day  
+1.	Weekly Work Schedule Display – Shows a weekly work schedule with a table layout.
+2.	Day Selection via Dropdown (Spinner) – Allows users to select a specific weekday.  
+3.	Team Member Display – After selecting a day, it displays a list of colleagues scheduled for that day.  
+4.	Simple and Clear UI – Uses a minimalistic design with text labels and an image for easy readability.  
+5.	Material Design Elements – Implements Material Design components such as the dropdown (Spinner) for a smooth user experience.  
+
 
 🤝 Contribution  
 
