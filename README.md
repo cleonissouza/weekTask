@@ -1,27 +1,26 @@
 📅 WeekTask
 
-WeekTask é um aplicativo Android desenvolvido para ajudar no gerenciamento de tarefas semanais. Ele oferece uma interface simples e intuitiva para visualizar e organizar compromissos ao longo da semana.
+WeekTask is an Android application designed to help manage weekly tasks. It provides a simple and intuitive interface to view and organize appointments throughout the week.
 
-📱 Tecnologias Utilizadas
+📱 Technologies Used
 
-O aplicativo foi desenvolvido utilizando as seguintes tecnologias e componentes:  
-	• Kotlin – Linguagem principal usada no Android Studio para desenvolvimento.  
-	• XML – Utilizado para a construção da interface do usuário.  
-	• Spinner – Componente para seleção de dias da semana.  
-	• TextView – Exibe mensagens como “Nenhuma tarefa” quando não há compromissos cadastrados.  
-	• ImageView – Responsável por exibir a tabela de horários.  
-	• Material Design – O design do aplicativo segue os princípios da biblioteca Material Components, garantindo uma experiência moderna e intuitiva.  
-	• ConstraintLayout – Utilizado para estruturar e posicionar os elementos da interface de forma eficiente.  
+The application was developed using the following technologies and components:   
+• Kotlin – Main language used in Android Studio for development.  
+• XML – Used for building the user interface.  
+• Spinner – Component for selecting weekdays.  
+• TextView – Displays messages like “No tasks” when there are no scheduled appointments.  
+• ImageView – Responsible for displaying the schedule table.  
+• Material Design – The app follows the principles of the Material Components library, ensuring a modern and intuitive experience.  
+• ConstraintLayout – Used to efficiently structure and position interface elements.  
 
-🔧 Como Executar o Projeto
-
-1. Clone este repositório para sua máquina:
+🔧 How to Run the Project  
+1. Clone this repository to your machine:  
   git clone git@github.com:cleonissouza/weekTask.git
 
-2. Abra o projeto no Android Studio.
-3. Compile e execute o aplicativo em um emulador ou dispositivo físico.
+2. Open the project in Android Studio.
+3. Compile and run the application on an emulator or physical device.
 
-📸 Capturas de Tela
+📸 Screenshots
 
 <img src="https://github.com/user-attachments/assets/264c64cb-8267-483d-9a88-10058ed2aa03" width=200/>
 
@@ -30,31 +29,28 @@ O aplicativo foi desenvolvido utilizando as seguintes tecnologias e componentes:
 <img src="https://github.com/user-attachments/assets/9f96fca8-89cd-4b20-8a17-40978d3f7fb2" width=200/>
 
 
-📌 Funcionalidades
+📌 Features
 
-✅ Seleção de dias da semana via Spinner  
-✅ Exibição de tarefas do dia escolhido  
-✅ Experiência fluida e moderna com Material Design  
+✅ Selection of weekdays via Spinner  
+✅ Display of tasks for the selected day  
 
-🤝 Contribuição
+🤝 Contribution  
 
-Se quiser contribuir com melhorias no projeto, siga estas etapas:
-1. Faça um fork do repositório.
+If you want to contribute to the project, follow these steps:  
+1. Fork the repository.  
+2. Create a branch for your feature:   
+  git checkout -b my-new-feature  
 
-2. Crie um branch para sua funcionalidade:
- git checkout -b minha-nova-funcionalidade
+3. Make the necessary changes and commit:  
+  git commit -m "Adding new feature"  
 
-3. Faça as alterações necessárias e commit:
-  git commit -m "Adicionando nova funcionalidade"
-
-4. Envie as alterações para seu repositório:
-    git push origin minha-nova-funcionalidade
-
-5. Abra um Pull Request no repositório original.
+4. Push the changes to your repository:  
+   git push origin my-new-feature  
    
+5. Open a Pull Request in the original repository.
 
-🛠️ Autor
+🛠️ Author
 
-👤 Cleonis Souza  
+👤 Cleonis Souza   
 📧 [cleonis-cls@outlook.com]  
-🔗 [https://www.linkedin.com/in/cleonis-souza/ ]
+🔗 [https://www.linkedin.com/in/cleonis-souza/]  
